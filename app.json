@@ -10,18 +10,18 @@
         "BEAST"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/elbeastzzzzz",
+    "success_url": "https://ball24.in",
     "env": {
         "BOT_TOKEN": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": "6598365404:AAFaR5DTmdyTplAQn1-FQsWetYjvrs2fu7A",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org",
+            "description": "b7574121107d4ba55427776729ffa445",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "13990879",
             "value": ""
         }
     },
