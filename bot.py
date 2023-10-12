@@ -1,12 +1,12 @@
 import os
 os.system("pip install Telethon==1.21.1")
 from telethon import TelegramClient, events, functions, types
-api_id = os.environ.get("APP_ID")
+api_id = os.environ.get("13990879")
 import os, asyncio
 from os import system
 from telethon.tl.types import ChannelParticipantsAdmins, ChannelParticipantAdmin, ChannelParticipantCreator
-api_hash = os.environ.get("API_HASH")
-token = os.environ.get("BOT_TOKEN")
+api_hash = os.environ.get("b7574121107d4ba55427776729ffa445")
+token = os.environ.get("6598365404:AAFaR5DTmdyTplAQn1-FQsWetYjvrs2fu7A")
 client = TelegramClient('Xarmy', api_id, api_hash).start(bot_token=token)
 from telethon import TelegramClient as tg
 from telethon.tl.functions.channels import GetAdminedPublicChannelsRequest as pc, JoinChannelRequest as join, LeaveChannelRequest as leave, DeleteChannelRequest as dc
